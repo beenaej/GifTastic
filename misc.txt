@@ -1,0 +1,3 @@
+public Giphy beta key= "dc6zaTOxFJmzC"
+
+queryURL = "https://api.giphy.com/v1/gifs/search?q="
